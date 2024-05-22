@@ -1,5 +1,4 @@
 function dropDownMenu() {
-  console.log("works");
   function toggleDropDownDisplayOnOff() {
     const dropdown = document.querySelector(".drop-down-list");
     dropdown.classList.toggle("visible");
@@ -46,4 +45,6 @@ function dropDownMenu() {
   );
 }
 
-module.exports = dropDownMenu;
+dropDownMenu();
+
+export default dropDownMenu;

@@ -1,0 +1,22 @@
+{
+  "name": "eli-for-president-dropdown-menu",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnbEli/dropdown-menu.git#main"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnbEli/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/lnbEli/dropdown-menu/tree/main#readme",
+  "description": "",
+  "dependencies": {
+    "eli-for-president-dropdown-menu": "^1.0.0"
+  }
+}
